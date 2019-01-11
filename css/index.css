@@ -341,4 +341,11 @@ footer nav a {
     margin: 0 3%;
 }
 
-/* Animation effects */
+/* Animation Effects */
+
+.fade:hover
+{
+    border: 1px solid;
+    padding: 10px;
+    box-shadow: 1px 1px 5px 5px #888888;
+}
